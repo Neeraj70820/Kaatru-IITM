@@ -8,7 +8,7 @@ Develop a model to find the variables that are significant in the demand for sha
 
 #### Outcome:
 
-The variables that are significant in predicting the demand for shared bikes (at least 3). Here Pearson Correlation is used.
+The variables that are significant in predicting the demand for shared bikes (at least 3).
 The variables "atemp", "casual", "registeres" gave high correlation with the target variable.
 
 #### Note:  cnt is the dependent variable
